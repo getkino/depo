@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c1a9db35-6cbb-43e4-a8c9-d5a010e485ea.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 1. Sezon 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_602789&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c1a9db35-6cbb-43e4-a8c9-d5a010e485ea.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 1. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_602788&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c1a9db35-6cbb-43e4-a8c9-d5a010e485ea.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 1. Sezon 7. Bölüm
