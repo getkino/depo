@@ -4789,8 +4789,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2159
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216027&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216076&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216026&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 7. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215950&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 6. Bölüm
@@ -5025,6 +5023,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3562
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_356221&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b69c730-63b6-4f67-80da-1419ac1e808e.jpg" group-title="Emlak Avcıları Amerika",Emlak Avcıları Amerika - 204. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_356220&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b69c730-63b6-4f67-80da-1419ac1e808e.jpg" group-title="Emlak Avcıları Amerika",Emlak Avcıları Amerika - 204. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_356219&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b69c730-63b6-4f67-80da-1419ac1e808e.jpg" group-title="Emlak Avcıları Amerika",Emlak Avcıları Amerika - 204. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_356218&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b69c730-63b6-4f67-80da-1419ac1e808e.jpg" group-title="Emlak Avcıları Amerika",Emlak Avcıları Amerika - 204. Sezon 3. Bölüm
@@ -10009,6 +10009,30 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_1484
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148456&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/dd76cff3-d24c-441e-9626-a45fd9840ed7.jpg" group-title="Kusursuz Cinayet",Kusursuz Cinayet - 3. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148455&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148503&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148502&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148501&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148500&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148499&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 2. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_148498&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127538&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127537&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127536&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127535&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127534&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c239a6ef-69c5-4c32-96a0-772423b86fcb.jpg" group-title="Kuşku",Kuşku - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_127533&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f7fa7de3-892a-4d9e-85ed-b20728cd7109.jpg" group-title="Küçük Aile",Küçük Aile - 9. Sezon 24. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195220&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f7fa7de3-892a-4d9e-85ed-b20728cd7109.jpg" group-title="Küçük Aile",Küçük Aile - 9. Sezon 23. Bölüm
@@ -10391,6 +10415,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2894
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_387472&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b3ae144-1dde-4a1d-881a-a7e4c391e8b7.jpg" group-title="Madeleine McCann Gizemi",Madeleine McCann Gizemi - ÖZEL BÖLÜM
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_263391&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3f75f3d5-9dcb-4a14-8ebe-af70b6a2d5c1.jpg" group-title="Mahallenin Ustaları",Mahallenin Ustaları - 6. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_558303&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3f75f3d5-9dcb-4a14-8ebe-af70b6a2d5c1.jpg" group-title="Mahallenin Ustaları",Mahallenin Ustaları - 6. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_558302&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3f75f3d5-9dcb-4a14-8ebe-af70b6a2d5c1.jpg" group-title="Mahallenin Ustaları",Mahallenin Ustaları - 6. Sezon 3. Bölüm
