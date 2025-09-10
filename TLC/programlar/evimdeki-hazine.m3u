@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587838&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587837&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 9. Bölüm
