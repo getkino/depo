@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/135f654a-097b-4dac-853c-38c63a86bb12.jpg" group-title="BİLİNMEYENE YOLCULUK",BİLİNMEYENE YOLCULUK - 10. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_572440&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/135f654a-097b-4dac-853c-38c63a86bb12.jpg" group-title="BİLİNMEYENE YOLCULUK",BİLİNMEYENE YOLCULUK - 10. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_572439&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/135f654a-097b-4dac-853c-38c63a86bb12.jpg" group-title="BİLİNMEYENE YOLCULUK",BİLİNMEYENE YOLCULUK - 7. Sezon 20. Bölüm
