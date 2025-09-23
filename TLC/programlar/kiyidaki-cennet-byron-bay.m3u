@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/18c8cfbd-1eea-4f56-bcd9-24e1cc60b06c.jpg" group-title="Kıyıdaki Cennet: Byron Bay",Kıyıdaki Cennet: Byron Bay - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_378411&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/18c8cfbd-1eea-4f56-bcd9-24e1cc60b06c.jpg" group-title="Kıyıdaki Cennet: Byron Bay",Kıyıdaki Cennet: Byron Bay - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_378410&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/18c8cfbd-1eea-4f56-bcd9-24e1cc60b06c.jpg" group-title="Kıyıdaki Cennet: Byron Bay",Kıyıdaki Cennet: Byron Bay - 1. Sezon 2. Bölüm
