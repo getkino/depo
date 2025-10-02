@@ -1155,6 +1155,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3838
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_383847&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7590031e-6468-43d1-a604-287e22342e61.jpg" group-title="Ağır Dostlar",Ağır Dostlar - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_383846&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/86ba8111-c7e7-4611-a0ba-ad089bb8789e.jpg" group-title="Ağır Dostlar: Jaz ve Nesha",Ağır Dostlar: Jaz ve Nesha - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_588415&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/86ba8111-c7e7-4611-a0ba-ad089bb8789e.jpg" group-title="Ağır Dostlar: Jaz ve Nesha",Ağır Dostlar: Jaz ve Nesha - 1. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_588414&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/86ba8111-c7e7-4611-a0ba-ad089bb8789e.jpg" group-title="Ağır Dostlar: Jaz ve Nesha",Ağır Dostlar: Jaz ve Nesha - 1. Sezon 3. Bölüm
@@ -1325,8 +1327,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3245
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_324542&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/345ac9cd-7799-4450-a470-dd1b4e0ee742.jpg" group-title="Ağır Yaşamlar",Ağır Yaşamlar - 9. Sezon 20. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_324541&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/345ac9cd-7799-4450-a470-dd1b4e0ee742.jpg" group-title="Ağır Yaşamlar",Ağır Yaşamlar - 9. Sezon 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_324540&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/345ac9cd-7799-4450-a470-dd1b4e0ee742.jpg" group-title="Ağır Yaşamlar",Ağır Yaşamlar - 9. Sezon 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_324539&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/345ac9cd-7799-4450-a470-dd1b4e0ee742.jpg" group-title="Ağır Yaşamlar",Ağır Yaşamlar - 9. Sezon 17. Bölüm
