@@ -233,6 +233,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_1696
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_169633&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3898efa3-39f0-446b-8aae-3a2f0361d845.jpg" group-title="90 Gün Öncesi",90 Gün Öncesi - AŞK İÇİN YOLLARA DÜŞTÜM | 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_169632&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3898efa3-39f0-446b-8aae-3a2f0361d845.jpg" group-title="90 Gün Öncesi",90 Gün Öncesi - AŞKIN OLAYIM | 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_169631&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/eccbe977-b594-4215-a54c-430cdf11c31e.jpg" group-title="Acemi Ustalar",Acemi Ustalar - 7. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_243731&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/eccbe977-b594-4215-a54c-430cdf11c31e.jpg" group-title="Acemi Ustalar",Acemi Ustalar - 7. Sezon 13. Bölüm
@@ -5535,6 +5537,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2390
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239010&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7f878ec7-86ac-40de-ad3d-339fc5c5f4df.jpg" group-title="Evim Renklensin",Evim Renklensin - 7. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239008&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587842&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587841&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 13. Bölüm
@@ -13263,8 +13267,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_4fb3
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_882de091-49c4-8800-844b-7fa4d4dd0813&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/849f9d19-907a-4a89-b56f-733cde7a15b6.jpg" group-title="Temizlik Savaşçısı",Temizlik Savaşçısı - ÖZEL BÖLÜM
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_297323&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2fd64b94-deb6-4908-9e94-c30ec128b3a5.jpg" group-title="Thomas Randolph'un Altı Karısı",Thomas Randolph'un Altı Karısı - 1. Sezon 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_524146&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2fd64b94-deb6-4908-9e94-c30ec128b3a5.jpg" group-title="Thomas Randolph'un Altı Karısı",Thomas Randolph'un Altı Karısı - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_499986&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2fd64b94-deb6-4908-9e94-c30ec128b3a5.jpg" group-title="Thomas Randolph'un Altı Karısı",Thomas Randolph'un Altı Karısı - 1. Sezon 1. Bölüm
