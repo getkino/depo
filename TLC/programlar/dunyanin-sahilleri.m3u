@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ab6b25b5-1d72-4991-b56a-20f48391e60a.jpg" group-title="Dünyanın Sahilleri",Dünyanın Sahilleri - 1. Sezon 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301092&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ab6b25b5-1d72-4991-b56a-20f48391e60a.jpg" group-title="Dünyanın Sahilleri",Dünyanın Sahilleri - 1. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301091&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ab6b25b5-1d72-4991-b56a-20f48391e60a.jpg" group-title="Dünyanın Sahilleri",Dünyanın Sahilleri - 1. Sezon 12. Bölüm
