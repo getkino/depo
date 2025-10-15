@@ -5541,6 +5541,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2390
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239010&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7f878ec7-86ac-40de-ad3d-339fc5c5f4df.jpg" group-title="Evim Renklensin",Evim Renklensin - 7. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239008&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587843&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 15. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587842&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 14. Bölüm
@@ -7767,8 +7769,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_7664
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_766395&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 5. Sezon 7. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_766268v2&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 5. Sezon 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_766267&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 5. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=TLC_766264&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 5. Sezon 2. Bölüm
