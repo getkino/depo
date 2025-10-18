@@ -1,0 +1,45 @@
+name: Run atp.py every 2 hours
+
+on:
+  schedule:
+    # cron syntax: at minute 0 every 2nd hour
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}  # elle tetikleme için
+
+jobs:
+  run-atp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # Fallback: ensure commonly used libs are available
+          pip install requests beautifulsoup4
+
+      - name: Run atp script and save log
+        id: run_atp
+        run: |
+          mkdir -p logs
+          TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
+          LOGFILE="logs/atp_run_${TIMESTAMP}.log"
+          echo "Running atp/atp.py at ${TIMESTAMP} (UTC)" > "$LOGFILE"
+          # run the script, append stdout+stderr to logfile
+          python atp/atp.py >> "$LOGFILE" 2>&1 || echo "Script exited with non-zero status" >> "$LOGFILE"
+          # show last lines for quick feedback in action log
+          tail -n 200 "$LOGFILE"
+        shell: bash
+
+      - name: Upload logs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: atp-logs
+          path: logs/
