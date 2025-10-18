@@ -1,10 +1,13 @@
 name: Run atp.py every 2 hours
 
+# İki saatte bir, ayrıca manuel tetikleme
 on:
   schedule:
-    # cron syntax: at minute 0 every 2nd hour
     - cron: '0 */2 * * *'
-  workflow_dispatch: {}  # elle tetikleme için
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # repo'ya dosya yazma izni (commit/push için gerekli)
 
 jobs:
   run-atp:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # GITHUB_TOKEN ile push yapabilmek için
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,8 +27,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # Fallback: ensure commonly used libs are available
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml || true
 
       - name: Run atp script and save log
         id: run_atp
@@ -32,9 +36,9 @@ jobs:
           TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
           LOGFILE="logs/atp_run_${TIMESTAMP}.log"
           echo "Running atp/atp.py at ${TIMESTAMP} (UTC)" > "$LOGFILE"
-          # run the script, append stdout+stderr to logfile
+          # script'i çalıştır, stdout+stderr log'a yaz
           python atp/atp.py >> "$LOGFILE" 2>&1 || echo "Script exited with non-zero status" >> "$LOGFILE"
-          # show last lines for quick feedback in action log
+          # hızlı bakış için son 200 satırı action log'unda göster
           tail -n 200 "$LOGFILE"
         shell: bash
 
@@ -43,3 +47,30 @@ jobs:
         with:
           name: atp-logs
           path: logs/
+
+      - name: Commit generated playlists if changed
+        # commit & push adımı: sadece playlists/ veya master dosyası değiştiyse push yapar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Hangi dosyaları takip etmek istersen onu buraya ekle
+          git add --all playlists/ master_all_series_playlist.m3u || true
+
+          # Değişiklik var mı kontrol et
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Changes detected. Creating commit..."
+            git commit -m "chore(atp): update playlists and master playlist [ci skip]" || echo "nothing to commit"
+            # push (default branch)
+            git push origin HEAD
+            echo "Pushed changes to remote."
+          else
+            echo "No changes to commit."
+          fi
+        shell: bash
+
+      - name: Cleanup orphan processes
+        run: |
+          # (opsiyonel) çalışan orphan process'leri temizle (senin log'ta vardı)
+          ps aux || true
+        shell: bash
