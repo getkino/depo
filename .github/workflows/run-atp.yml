@@ -1,22 +1,21 @@
-name: Run atp.py every 2 hours
+name: Run atp.py (write into atp/ or create PR)
 
-# İki saatte bir, ayrıca manuel tetikleme
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch: {}
+    - cron: '0 */2 * * *'   # her 2 saatte bir
+  workflow_dispatch: {}     # manuel tetikleme
 
 permissions:
-  contents: write   # repo'ya dosya yazma izni (commit/push için gerekli)
+  contents: write   # GITHUB_TOKEN ile yazma izni talebi (org ayarları izin verirse)
 
 jobs:
   run-atp:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (with creds)
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # GITHUB_TOKEN ile push yapabilmek için
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,16 +28,24 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install requests beautifulsoup4 lxml || true
 
-      - name: Run atp script and save log
+      - name: Ensure atp dir exists
+        run: |
+          mkdir -p atp
+          # make sure playlists dir exists (script expects playlists/)
+          mkdir -p atp/playlists
+          # create an empty placeholder to avoid "no files" in repo if needed
+          touch atp/.placeholder
+        shell: bash
+
+      - name: Run atp script and write logs into atp/logs
         id: run_atp
         run: |
-          mkdir -p logs
+          mkdir -p atp/logs
           TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
-          LOGFILE="logs/atp_run_${TIMESTAMP}.log"
+          LOGFILE="atp/logs/atp_run_${TIMESTAMP}.log"
           echo "Running atp/atp.py at ${TIMESTAMP} (UTC)" > "$LOGFILE"
-          # script'i çalıştır, stdout+stderr log'a yaz
+          # run the script with working dir repo root; append stdout+stderr
           python atp/atp.py >> "$LOGFILE" 2>&1 || echo "Script exited with non-zero status" >> "$LOGFILE"
-          # hızlı bakış için son 200 satırı action log'unda göster
           tail -n 200 "$LOGFILE"
         shell: bash
 
@@ -46,31 +53,77 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: atp-logs
-          path: logs/
+          path: atp/logs/
 
-      - name: Commit generated playlists if changed
-        # commit & push adımı: sadece playlists/ veya master dosyası değiştiyse push yapar
+      - name: Try commit & push using GITHUB_TOKEN (default)
+        id: try_push
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Hangi dosyaları takip etmek istersen onu buraya ekle
-          git add --all playlists/ master_all_series_playlist.m3u || true
+          # stage only atp/ outputs (tweak if your script writes elsewhere)
+          git add -A atp || true
 
-          # Değişiklik var mı kontrol et
           if [ -n "$(git status --porcelain)" ]; then
-            echo "Changes detected. Creating commit..."
-            git commit -m "chore(atp): update playlists and master playlist [ci skip]" || echo "nothing to commit"
-            # push (default branch)
-            git push origin HEAD
-            echo "Pushed changes to remote."
+            git commit -m "chore(atp): update generated files under atp/ [ci skip]" || true
+            # Try to push to current branch (the workflow runs on default branch typically).
+            # This will succeed only if GITHUB_TOKEN has write permissions.
+            if git push origin HEAD; then
+              echo "Pushed changes using GITHUB_TOKEN."
+              echo "pushed=true" >> $GITHUB_OUTPUT
+            else
+              echo "Push using GITHUB_TOKEN failed (probably permission)."
+              echo "pushed=false" >> $GITHUB_OUTPUT
+            fi
           else
             echo "No changes to commit."
+            echo "pushed=true" >> $GITHUB_OUTPUT
           fi
         shell: bash
 
-      - name: Cleanup orphan processes
+      - name: If push failed: create branch and open PR using PUSH_PAT
+        if: steps.try_push.outputs.pushed == 'false'
+        env:
+          PUSH_PAT: ${{ secrets.PUSH_PAT }}
+          REPO: ${{ github.repository }}
+          PR_TITLE: "chore(atp): update generated files under atp/ (automated)"
         run: |
-          # (opsiyonel) çalışan orphan process'leri temizle (senin log'ta vardı)
-          ps aux || true
+          if [ -z "$PUSH_PAT" ]; then
+            echo "PUSH_PAT not set — cannot push or create PR. Exiting."
+            exit 0
+          fi
+
+          git remote set-url origin https://x-access-token:${PUSH_PAT}@github.com/${REPO}.git
+
+          BRANCH="atp/auto-update-$(date -u +'%Y%m%dT%H%M%SZ')"
+          git checkout -b "$BRANCH" || git checkout "$BRANCH" || true
+
+          git add -A atp || true
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore(atp): update generated files under atp/ [ci skip]" || true
+            git push --set-upstream origin "$BRANCH"
+            echo "Pushed to $BRANCH"
+            # create PR via GitHub API
+            PAYLOAD=$(jq -n --arg title "$PR_TITLE" --arg head "$BRANCH" --arg base "${{ github.ref_name }}" \
+              '{title: $title, head: $head, base: $base, body: "Automated PR: updates generated by atp script."}')
+            curl -s -X POST \
+              -H "Authorization: token ${PUSH_PAT}" \
+              -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/${REPO}/pulls \
+              -d "$PAYLOAD" \
+              | tee pr_resp.json
+            echo "PR creation response saved to pr_resp.json"
+          else
+            echo "No changes to commit for PR."
+          fi
+        shell: bash
+
+      - name: Show repo status for debugging
+        run: |
+          echo "Repo root listing:"
+          ls -la
+          echo "atp listing:"
+          ls -la atp || true
         shell: bash
