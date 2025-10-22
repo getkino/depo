@@ -5543,6 +5543,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2390
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239010&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7f878ec7-86ac-40de-ad3d-339fc5c5f4df.jpg" group-title="Evim Renklensin",Evim Renklensin - 7. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239008&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587844&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 16. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587843&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 15. Bölüm
@@ -5719,8 +5721,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2476
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_247638&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d675b89f-438e-48a4-a422-4efe8ee25faa.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 7. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_247637&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d675b89f-438e-48a4-a422-4efe8ee25faa.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 7. Sezon 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_247636&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d675b89f-438e-48a4-a422-4efe8ee25faa.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 7. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_247635&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d675b89f-438e-48a4-a422-4efe8ee25faa.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 7. Sezon 2. Bölüm
