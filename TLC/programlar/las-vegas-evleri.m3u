@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f92cee5e-fe2a-4101-bf01-cefc6df2a37c.jpg" group-title="Las Vegas Evleri",Las Vegas Evleri - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_585788&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f92cee5e-fe2a-4101-bf01-cefc6df2a37c.jpg" group-title="Las Vegas Evleri",Las Vegas Evleri - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_585787&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f92cee5e-fe2a-4101-bf01-cefc6df2a37c.jpg" group-title="Las Vegas Evleri",Las Vegas Evleri - 1. Sezon 2. Bölüm
