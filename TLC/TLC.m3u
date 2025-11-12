@@ -5519,6 +5519,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2390
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239010&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7f878ec7-86ac-40de-ad3d-339fc5c5f4df.jpg" group-title="Evim Renklensin",Evim Renklensin - 7. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_239008&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587847&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 19. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_587846&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a481f412-7260-45a2-bd34-a9f063bec27d.jpg" group-title="Evimdeki Hazine",Evimdeki Hazine - 3. Sezon 18. Bölüm
@@ -7829,8 +7831,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_1731
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_173159&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/039b5acf-12e0-441b-93f3-cf23aecf668c.jpg" group-title="İhanet",İhanet - 2. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_173158&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/039b5acf-12e0-441b-93f3-cf23aecf668c.jpg" group-title="İhanet",İhanet - 2. Sezon 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_173156&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/039b5acf-12e0-441b-93f3-cf23aecf668c.jpg" group-title="İhanet",İhanet - 2. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_173155&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/039b5acf-12e0-441b-93f3-cf23aecf668c.jpg" group-title="İhanet",İhanet - 2. Sezon 2. Bölüm
@@ -10365,6 +10365,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2303
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_289471&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/1f1ecb38-321c-4721-b307-7e94e894b814.jpg" group-title="LOVE OFF THE GRID",LOVE OFF THE GRID - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_387472&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05bd0cc3-e8f6-4867-a59d-0a698f8437dc.jpg" group-title="Lüks Dedektifleri",Lüks Dedektifleri - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606864&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05bd0cc3-e8f6-4867-a59d-0a698f8437dc.jpg" group-title="Lüks Dedektifleri",Lüks Dedektifleri - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606863&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b3ae144-1dde-4a1d-881a-a7e4c391e8b7.jpg" group-title="Madeleine McCann Gizemi",Madeleine McCann Gizemi - ÖZEL BÖLÜM
