@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e4fd7e6-a9eb-493b-8d6e-121f1011a0ac.jpg" group-title="100 Günde Rüya Ev",100 Günde Rüya Ev - 6. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_558527&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e4fd7e6-a9eb-493b-8d6e-121f1011a0ac.jpg" group-title="100 Günde Rüya Ev",100 Günde Rüya Ev - 6. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_558525&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e4fd7e6-a9eb-493b-8d6e-121f1011a0ac.jpg" group-title="100 Günde Rüya Ev",100 Günde Rüya Ev - 5. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_495676&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e4fd7e6-a9eb-493b-8d6e-121f1011a0ac.jpg" group-title="100 Günde Rüya Ev",100 Günde Rüya Ev - 5. Sezon 5. Bölüm
