@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62c3c8e8-b95f-4885-b19d-871a48d6dcc1.jpg" group-title="Harry Potter: Pastanenin Sihirbazları",Harry Potter: Pastanenin Sihirbazları - 2. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_623357&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62c3c8e8-b95f-4885-b19d-871a48d6dcc1.jpg" group-title="Harry Potter: Pastanenin Sihirbazları",Harry Potter: Pastanenin Sihirbazları - 2. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_623356&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62c3c8e8-b95f-4885-b19d-871a48d6dcc1.jpg" group-title="Harry Potter: Pastanenin Sihirbazları",Harry Potter: Pastanenin Sihirbazları - 2. Sezon 1. Bölüm
