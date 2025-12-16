@@ -1799,8 +1799,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2622
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_262255&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b262fbea-e2a4-48fe-a3c3-6e1c879a8fda.jpg" group-title="Al Onar Sat",Al Onar Sat - 2. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_262254&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b262fbea-e2a4-48fe-a3c3-6e1c879a8fda.jpg" group-title="Al Onar Sat",Al Onar Sat - 2. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_262253&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b262fbea-e2a4-48fe-a3c3-6e1c879a8fda.jpg" group-title="Al Onar Sat",Al Onar Sat - 2. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_262252&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b262fbea-e2a4-48fe-a3c3-6e1c879a8fda.jpg" group-title="Al Onar Sat",Al Onar Sat - 1. Sezon 14. Bölüm
@@ -10931,6 +10929,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2682
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268248&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/de4f7d27-dc77-482e-b31d-de0c2cd7a187.jpg" group-title="Milyon Dolarlık Pastalar",Milyon Dolarlık Pastalar - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268247&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9d3cf70a-748d-4600-b34b-d89a307ba8cf.jpg" group-title="Milyoner İstifçiler",Milyoner İstifçiler - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606862&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9d3cf70a-748d-4600-b34b-d89a307ba8cf.jpg" group-title="Milyoner İstifçiler",Milyoner İstifçiler - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606861&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9d3cf70a-748d-4600-b34b-d89a307ba8cf.jpg" group-title="Milyoner İstifçiler",Milyoner İstifçiler - 1. Sezon 1. Bölüm
@@ -13741,6 +13741,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4005
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_400576&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/48e93ab7-4cc1-46b1-917c-b9fa5cb7af25.jpg" group-title="Uyanık Ameliyat",Uyanık Ameliyat - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_400575&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_619760&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_619759&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 1. Bölüm
