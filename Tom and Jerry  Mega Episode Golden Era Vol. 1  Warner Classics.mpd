@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" type="static" mediaPresentationDuration="PT3348S" minBufferTime="PT2S" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011">
+  <Period duration="PT3348S">
+    <AdaptationSet mimeType="video/mp4" contentType="video" segmentAlignment="true" startWithSAP="1">
+      <Representation id="0" bandwidth="490084" width="640" height="360" frameRate="24" codecs="avc1.64001e,mp4a.40.2">
+        <BaseURL>https://rr3---sn-u0g3uxax3-u1me.googlevideo.com/videoplayback?expire=1766414132&amp;ei=1AJJae6NIoWjzPsPy8iAyAE&amp;ip=95.0.170.134&amp;id=o-AEm-bNDHvU7OEaQIrkodZ6E_CVMvMg5vflLpjG2sx-8x&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;cps=360&amp;met=1766392532%2C&amp;mh=tc&amp;mm=31%2C29&amp;mn=sn-u0g3uxax3-u1me%2Csn-nv47zne7&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=3&amp;pl=24&amp;rms=au%2Cau&amp;initcwndbps=4301250&amp;bui=AYUSA3Ds7j-VPEp2WTnRxu80kpJ2RXkMh5wLiHw4pfLqLRR9o4tG18UglyXHr2_xmxNybdjv9OSg2tOl&amp;spc=wH4Qq8wxy227V29Suf5D&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;rqh=1&amp;gir=yes&amp;clen=205102549&amp;ratebypass=yes&amp;dur=3348.038&amp;lmt=1764797484760276&amp;mt=1766392150&amp;fvip=5&amp;fexp=51552689%2C51565115%2C51565681%2C51580968&amp;c=ANDROID&amp;txp=4538534&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;sig=AJfQdSswRQIgHIBbFceTt6bJ7RZ-iVpCrfYAB0D7psRny5StO20OzH8CIQC-15VLJDM--J1D9QdOu7N01klQeYlVpCVTDX2KLsrrMg%3D%3D&amp;lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&amp;lsig=APaTxxMwRQIgPtq1Hic4iHTtpXPaFToUIAdVd3xqR0RkB0KW9Q0wSxICIQDckxGFkA1Ls_NOd8G8NvPaKP0LOPO2-gjKhGDcbac5gw%3D%3D</BaseURL>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
