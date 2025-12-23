@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_619761&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_619760&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/348face9-2422-4f15-9092-00f11879ebb3.jpg" group-title="Ünlülerin Görkemli Evleri",Ünlülerin Görkemli Evleri - 1. Sezon 2. Bölüm
