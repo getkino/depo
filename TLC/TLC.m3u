@@ -1861,6 +1861,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3850
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_385014&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a2ce8dd8-f1d0-46f5-a8a4-a251d5114d93.jpg" group-title="Amerika'nın En Çirkin Evleri",Amerika'nın En Çirkin Evleri - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_385013&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/97b8bbfc-6144-40eb-9e13-32c2d958a97d.jpg" group-title="Amerikan Canavarı",Amerikan Canavarı - 11. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_556396&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/97b8bbfc-6144-40eb-9e13-32c2d958a97d.jpg" group-title="Amerikan Canavarı",Amerikan Canavarı - 11. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_556395&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/97b8bbfc-6144-40eb-9e13-32c2d958a97d.jpg" group-title="Amerikan Canavarı",Amerikan Canavarı - 11. Sezon 5. Bölüm
@@ -2905,8 +2907,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2360
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_236031&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a5aed319-8c12-44f4-b9d0-58e3a2ce14f1.jpg" group-title="Bu Nasıl Otel!",Bu Nasıl Otel! - 7. Sezon 11. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_236030&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a5aed319-8c12-44f4-b9d0-58e3a2ce14f1.jpg" group-title="Bu Nasıl Otel!",Bu Nasıl Otel! - 7. Sezon 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_236029&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a5aed319-8c12-44f4-b9d0-58e3a2ce14f1.jpg" group-title="Bu Nasıl Otel!",Bu Nasıl Otel! - 7. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_236028&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a5aed319-8c12-44f4-b9d0-58e3a2ce14f1.jpg" group-title="Bu Nasıl Otel!",Bu Nasıl Otel! - 7. Sezon 8. Bölüm
