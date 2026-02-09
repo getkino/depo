@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d441431d-b94b-4e03-a586-2d9a601f208a.jpg" group-title="Ölümcül Şöhret",Ölümcül Şöhret - 2. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_454347&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d441431d-b94b-4e03-a586-2d9a601f208a.jpg" group-title="Ölümcül Şöhret",Ölümcül Şöhret - 2. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_454346&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d441431d-b94b-4e03-a586-2d9a601f208a.jpg" group-title="Ölümcül Şöhret",Ölümcül Şöhret - 2. Sezon 4. Bölüm
