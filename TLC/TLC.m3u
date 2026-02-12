@@ -2595,6 +2595,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2570
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257055&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/23e787cf-842b-4d5b-9771-59324a8a151a.jpg" group-title="Bit Pazarı Harikaları",Bit Pazarı Harikaları - 8. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257054&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/23e787cf-842b-4d5b-9771-59324a8a151a.jpg" group-title="Bit Pazarı Harikaları",Bit Pazarı Harikaları - 8. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257053&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/23e787cf-842b-4d5b-9771-59324a8a151a.jpg" group-title="Bit Pazarı Harikaları",Bit Pazarı Harikaları - 8. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257052&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/23e787cf-842b-4d5b-9771-59324a8a151a.jpg" group-title="Bit Pazarı Harikaları",Bit Pazarı Harikaları - 8. Sezon 2. Bölüm
@@ -2821,8 +2823,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4956
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_424604&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8597f1b9-0322-4f34-91ee-e71393a9fd73.jpg" group-title="Bu Ev Satılmaz",Bu Ev Satılmaz - 4. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_424603&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8597f1b9-0322-4f34-91ee-e71393a9fd73.jpg" group-title="Bu Ev Satılmaz",Bu Ev Satılmaz - 4. Sezon 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_424602&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8597f1b9-0322-4f34-91ee-e71393a9fd73.jpg" group-title="Bu Ev Satılmaz",Bu Ev Satılmaz - 4. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_424601&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8597f1b9-0322-4f34-91ee-e71393a9fd73.jpg" group-title="Bu Ev Satılmaz",Bu Ev Satılmaz - 4. Sezon 9. Bölüm
@@ -6151,6 +6151,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3179
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_317941&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b1528a5-520b-452a-9542-fb89d36acdba.jpg" group-title="Gelinliğe Evet De",Gelinliğe Evet De - 19. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_317939&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b1528a5-520b-452a-9542-fb89d36acdba.jpg" group-title="Gelinliğe Evet De",Gelinliğe Evet De - 19. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_317938&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b1528a5-520b-452a-9542-fb89d36acdba.jpg" group-title="Gelinliğe Evet De",Gelinliğe Evet De - 19. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_317937&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9b1528a5-520b-452a-9542-fb89d36acdba.jpg" group-title="Gelinliğe Evet De",Gelinliğe Evet De - 19. Sezon 2. Bölüm
