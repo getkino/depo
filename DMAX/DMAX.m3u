@@ -4681,6 +4681,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3256
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_325604&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9428ab0c-c008-407e-b118-d6a27567ba1c.jpg" group-title="DÜNYANIN EN İYİ ARABALARI",DÜNYANIN EN İYİ ARABALARI - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_325603&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d35860e1-af82-47b2-8ed2-1f7172df41ff.jpg" group-title="ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER",ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_624132&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d35860e1-af82-47b2-8ed2-1f7172df41ff.jpg" group-title="ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER",ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER - 1. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_624131&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d35860e1-af82-47b2-8ed2-1f7172df41ff.jpg" group-title="ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER",ED STAFFORD İLE CESARET İSTEYEN RİTÜELLER - 1. Sezon 3. Bölüm
@@ -5439,8 +5441,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_2964
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_296478&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/11a80b4e-c5cc-435e-be3c-c606d4249e1e.jpg" group-title="GÜMRÜK KONTROL",GÜMRÜK KONTROL - 4. Sezon 20. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_262319&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/11a80b4e-c5cc-435e-be3c-c606d4249e1e.jpg" group-title="GÜMRÜK KONTROL",GÜMRÜK KONTROL - 4. Sezon 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_262318&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/11a80b4e-c5cc-435e-be3c-c606d4249e1e.jpg" group-title="GÜMRÜK KONTROL",GÜMRÜK KONTROL - 4. Sezon 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_262317&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/11a80b4e-c5cc-435e-be3c-c606d4249e1e.jpg" group-title="GÜMRÜK KONTROL",GÜMRÜK KONTROL - 4. Sezon 17. Bölüm
@@ -5507,6 +5507,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_1755
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_175522&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d7d8c447-74e2-4a8a-a415-2232847f6f8b.jpg" group-title="GÜMRÜK KONTROL: AVRUPA",GÜMRÜK KONTROL: AVRUPA - 1. Sezon 20. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_320219&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d7d8c447-74e2-4a8a-a415-2232847f6f8b.jpg" group-title="GÜMRÜK KONTROL: AVRUPA",GÜMRÜK KONTROL: AVRUPA - 1. Sezon 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_320218&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d7d8c447-74e2-4a8a-a415-2232847f6f8b.jpg" group-title="GÜMRÜK KONTROL: AVRUPA",GÜMRÜK KONTROL: AVRUPA - 1. Sezon 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_320217&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d7d8c447-74e2-4a8a-a415-2232847f6f8b.jpg" group-title="GÜMRÜK KONTROL: AVRUPA",GÜMRÜK KONTROL: AVRUPA - 1. Sezon 17. Bölüm
