@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2faaa381-5d59-4f7b-8a9f-3ffcb9b9b3da.jpg" group-title="ÜRETİM BANDI",ÜRETİM BANDI - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_646349&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2faaa381-5d59-4f7b-8a9f-3ffcb9b9b3da.jpg" group-title="ÜRETİM BANDI",ÜRETİM BANDI - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_646348&SecretKey=NtvApiSecret2014*
