@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5750449b-1d91-49e5-a74f-f3b61501ac66.jpg" group-title="ÇİFTLİK HAYATI ZORDUR",ÇİFTLİK HAYATI ZORDUR - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_640120&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5750449b-1d91-49e5-a74f-f3b61501ac66.jpg" group-title="ÇİFTLİK HAYATI ZORDUR",ÇİFTLİK HAYATI ZORDUR - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_640119&SecretKey=NtvApiSecret2014*
