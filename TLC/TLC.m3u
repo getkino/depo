@@ -5963,6 +5963,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3360
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336029&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2e64ad4a-fc28-47df-9e93-a1a3bdd0ec55.jpg" group-title="Evliliğe 90 Gün: Bekar Hayatı",Evliliğe 90 Gün: Bekar Hayatı - SIFIRDAN BAŞLIYORUZ | 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_36028&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 3. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_456782&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 3. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_456781&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 3. Sezon 1. Bölüm
@@ -11223,6 +11225,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2484
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_248445&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 7. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_248444&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 6. Sezon 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_256546&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 6. Sezon 7. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_256545&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 6. Sezon 6. Bölüm
@@ -12093,8 +12097,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3782
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_430399&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 9. Sezon 15. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_302123&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 9. Sezon 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_302122&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 9. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_302121&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 9. Sezon 12. Bölüm
