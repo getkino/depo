@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62ffc09a-f5e4-41d5-9ad5-8acd81649147.jpg" group-title="Cape Town Evleri",Cape Town Evleri - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_646153&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62ffc09a-f5e4-41d5-9ad5-8acd81649147.jpg" group-title="Cape Town Evleri",Cape Town Evleri - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_646152&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/62ffc09a-f5e4-41d5-9ad5-8acd81649147.jpg" group-title="Cape Town Evleri",Cape Town Evleri - 1. Sezon 2. Bölüm
