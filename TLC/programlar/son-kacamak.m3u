@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b05d672-9f70-4dd5-a3cb-2211ca77ef7b.jpg" group-title="Son Kaçamak",Son Kaçamak - 1. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_454335&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b05d672-9f70-4dd5-a3cb-2211ca77ef7b.jpg" group-title="Son Kaçamak",Son Kaçamak - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_454334&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b05d672-9f70-4dd5-a3cb-2211ca77ef7b.jpg" group-title="Son Kaçamak",Son Kaçamak - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_454333&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b05d672-9f70-4dd5-a3cb-2211ca77ef7b.jpg" group-title="Son Kaçamak",Son Kaçamak - 1. Sezon 2. Bölüm
