@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497815&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497814&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497813&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497812&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497811&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_497810&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7bbbc2be-7cc0-4a0a-9a44-b3de14a817ba.jpg" group-title="Paris Pastacıları",Paris Pastacıları - 1. Sezon 2. Bölüm
