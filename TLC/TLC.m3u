@@ -493,8 +493,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_9596
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_959637&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/10e12fe3-e34e-407d-a3b9-28746b0570ca.jpg" group-title="Ada Avcıları",Ada Avcıları - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_959658&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340409&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340408&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 12. Bölüm
@@ -2353,6 +2351,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_5759
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_575924&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a4a68e7c-fa12-45d9-9bb4-1ccf67ff0d2a.jpg" group-title="BALDWIN AİLESİ",BALDWIN AİLESİ - 1. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_575923&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a4a68e7c-fa12-45d9-9bb4-1ccf67ff0d2a.jpg" group-title="BALDWIN AİLESİ",BALDWIN AİLESİ - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_575922&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a4a68e7c-fa12-45d9-9bb4-1ccf67ff0d2a.jpg" group-title="BALDWIN AİLESİ",BALDWIN AİLESİ - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_575921&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a4a68e7c-fa12-45d9-9bb4-1ccf67ff0d2a.jpg" group-title="BALDWIN AİLESİ",BALDWIN AİLESİ - 1. Sezon 1. Bölüm
@@ -3997,6 +3997,24 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3010
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301080&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ab6b25b5-1d72-4991-b56a-20f48391e60a.jpg" group-title="Dünyanın Sahilleri",Dünyanın Sahilleri - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301079&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929804&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929803&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929802&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929801&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929800&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929798&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929797&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929796&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d5471b1-965b-44e6-ae4f-21db0327b36a.jpg" group-title="El İşi Savaşları",El İşi Savaşları - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_929795&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7a55e1a1-4173-4148-87e8-7d903e9d77ca.jpg" group-title="El Moussalar ile Evini Yenile",El Moussalar ile Evini Yenile - 2. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_456805&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7a55e1a1-4173-4148-87e8-7d903e9d77ca.jpg" group-title="El Moussalar ile Evini Yenile",El Moussalar ile Evini Yenile - 2. Sezon 12. Bölüm
@@ -4757,6 +4775,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2160
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215951&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216027&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216076&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_216026&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b8f94db-26dd-4b1d-85bc-e7f2a07a4435.jpg" group-title="Emlak Avcıları",Emlak Avcıları - 28. Sezon 7. Bölüm
@@ -8557,8 +8577,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3011
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301117&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d6575157-cb15-47b0-a312-fbaf41d186c4.jpg" group-title="Karayip Evleri",Karayip Evleri - 16. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301116&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d6575157-cb15-47b0-a312-fbaf41d186c4.jpg" group-title="Karayip Evleri",Karayip Evleri - 16. Sezon 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301115&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d6575157-cb15-47b0-a312-fbaf41d186c4.jpg" group-title="Karayip Evleri",Karayip Evleri - 16. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_301114&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d6575157-cb15-47b0-a312-fbaf41d186c4.jpg" group-title="Karayip Evleri",Karayip Evleri - 16. Sezon 7. Bölüm
@@ -9049,6 +9067,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4948
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447186&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447185&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447184&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 16. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447183&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 15. Bölüm
@@ -9057,6 +9077,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4471
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447181&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447180&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_444013&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - 8. Sezon 11. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_444012&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/02adc1ec-78f5-4903-aef9-c70f89d7214d.jpg" group-title="Kötülük Yanıbaşımda",Kötülük Yanıbaşımda - Eyaletin İdam Cezası Alan İlk Kadını | 8. Sezon 10. Bölüm
@@ -11259,6 +11281,10 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2281
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228103&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 4. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228102&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 4. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228101&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2ba1d034-ad10-4cc2-bd87-d45938d10581.jpg" group-title="New York Evleri",New York Evleri - 4. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228100&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/31983502-90ec-47a8-ab3a-5c1481696c25.jpg" group-title="O Düğünü İstiyorum",O Düğünü İstiyorum - 1. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_195215&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/31983502-90ec-47a8-ab3a-5c1481696c25.jpg" group-title="O Düğünü İstiyorum",O Düğünü İstiyorum - 1. Sezon 3. Bölüm
