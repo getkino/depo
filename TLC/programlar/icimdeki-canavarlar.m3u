@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 8. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_186747&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 8. Sezon 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_186746&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 8. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_185242&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/05318616-06e9-48ab-ad91-e7d4bd216dd6.jpg" group-title="İçimdeki Canavarlar",İçimdeki Canavarlar - 8. Sezon 9. Bölüm
