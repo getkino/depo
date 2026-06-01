@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ce588d53-730c-4aa6-9c3f-57c0c92c5782.jpg" group-title="HOFFMAN ALTINLARI",HOFFMAN ALTINLARI - 2. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_478428&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ce588d53-730c-4aa6-9c3f-57c0c92c5782.jpg" group-title="HOFFMAN ALTINLARI",HOFFMAN ALTINLARI - 2. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_478427&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/ce588d53-730c-4aa6-9c3f-57c0c92c5782.jpg" group-title="HOFFMAN ALTINLARI",HOFFMAN ALTINLARI - 2. Sezon 2. Bölüm
