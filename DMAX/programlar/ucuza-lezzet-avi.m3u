@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9656ca65-7999-4368-a78b-d195395fae29.jpg" group-title="UCUZA LEZZET AVI",UCUZA LEZZET AVI - 4. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_259648&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9656ca65-7999-4368-a78b-d195395fae29.jpg" group-title="UCUZA LEZZET AVI",UCUZA LEZZET AVI - 4. Sezon 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_259647&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9656ca65-7999-4368-a78b-d195395fae29.jpg" group-title="UCUZA LEZZET AVI",UCUZA LEZZET AVI - 4. Sezon 11. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_259646&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9656ca65-7999-4368-a78b-d195395fae29.jpg" group-title="UCUZA LEZZET AVI",UCUZA LEZZET AVI - 4. Sezon 10. Bölüm
