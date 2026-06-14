@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/75ef4c0b-9a77-4689-a8a4-02e50609feb4.jpg" group-title="Hollywood'un Şeytanları",Hollywood'un Şeytanları - 2. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_622919&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/75ef4c0b-9a77-4689-a8a4-02e50609feb4.jpg" group-title="Hollywood'un Şeytanları",Hollywood'un Şeytanları - 2. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_622918&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/75ef4c0b-9a77-4689-a8a4-02e50609feb4.jpg" group-title="Hollywood'un Şeytanları",Hollywood'un Şeytanları - 1. Sezon 5. Bölüm
