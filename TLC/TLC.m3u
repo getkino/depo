@@ -335,8 +335,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2290
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268703&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af8f8c57-c51e-4e9d-93bf-1b8e7df687e5.jpg" group-title="Acımasız Kış",Acımasız Kış - 2. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268702&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af8f8c57-c51e-4e9d-93bf-1b8e7df687e5.jpg" group-title="Acımasız Kış",Acımasız Kış - 2. Sezon 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268701&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af8f8c57-c51e-4e9d-93bf-1b8e7df687e5.jpg" group-title="Acımasız Kış",Acımasız Kış - 2. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_268700&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af8f8c57-c51e-4e9d-93bf-1b8e7df687e5.jpg" group-title="Acımasız Kış",Acımasız Kış - 2. Sezon 1. Bölüm
@@ -8463,6 +8461,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2103
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_198518&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15a0a568-7997-4a0d-b02d-a6b13347f058.jpg" group-title="Kalabalık Aile",Kalabalık Aile - 3. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_198499&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15a0a568-7997-4a0d-b02d-a6b13347f058.jpg" group-title="Kalabalık Aile",Kalabalık Aile - 3. Sezon 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_198517&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15a0a568-7997-4a0d-b02d-a6b13347f058.jpg" group-title="Kalabalık Aile",Kalabalık Aile - 3. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_198505&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15a0a568-7997-4a0d-b02d-a6b13347f058.jpg" group-title="Kalabalık Aile",Kalabalık Aile - 3. Sezon 7. Bölüm
@@ -11613,6 +11613,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2413
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_233348&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b4f793d-6c50-4fd7-9cff-530ac4db0c52.jpg" group-title="Pasta Avcıları",Pasta Avcıları - 2. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_233347&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b4f793d-6c50-4fd7-9cff-530ac4db0c52.jpg" group-title="Pasta Avcıları",Pasta Avcıları - 2. Sezon 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_233345&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b4f793d-6c50-4fd7-9cff-530ac4db0c52.jpg" group-title="Pasta Avcıları",Pasta Avcıları - 2. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_233344&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5b4f793d-6c50-4fd7-9cff-530ac4db0c52.jpg" group-title="Pasta Avcıları",Pasta Avcıları - 2. Sezon 8. Bölüm
