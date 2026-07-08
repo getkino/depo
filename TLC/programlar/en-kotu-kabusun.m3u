@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 6. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_276756&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 6. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_276755&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 10. Bölüm
@@ -7,8 +9,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2120
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212033&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212007&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212023&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212017&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 4. Bölüm
@@ -17,8 +17,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2120
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212022&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212016&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 5. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_212036&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 4. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_180385&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a193b107-1d7c-4b60-84d7-ee8f58905a9a.jpg" group-title="En Kötü Kabusun",En Kötü Kabusun - 4. Sezon 9. Bölüm
