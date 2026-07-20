@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/60994713-4c7f-4944-93ad-ad97c3fda5b1.jpg" group-title="KLASİK ARABA KURTARMA: ALMANYA",KLASİK ARABA KURTARMA: ALMANYA - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_311203&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/60994713-4c7f-4944-93ad-ad97c3fda5b1.jpg" group-title="KLASİK ARABA KURTARMA: ALMANYA",KLASİK ARABA KURTARMA: ALMANYA - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_311202&SecretKey=NtvApiSecret2014*
