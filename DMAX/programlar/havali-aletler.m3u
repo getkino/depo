@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 10. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_266600&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 10. Sezon 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_266599&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 10. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_266598&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 10. Sezon 9. Bölüm
@@ -137,6 +139,16 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3230
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327195&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327195&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - Bahçe aletleri
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - Hayatı kolaylaştıran aletler
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - Peyzaj Özel Bölümü
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - En başarılı 25 alet
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - En başarılı 25 alet - 2
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - 0. Sezon 0. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_327191&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af35b036-7312-4382-9307-c4c5f7620ccd.jpg" group-title="HAVALI ALETLER",HAVALI ALETLER - Yılbaşı Özel
