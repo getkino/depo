@@ -1,3 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149515&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149514&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149513&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149512&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149511&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/edf0a4e1-aa11-4e2e-a234-28c4f8d22262.jpg" group-title="Everest Kurtarma Ekibi",Everest Kurtarma Ekibi - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_149510&SecretKey=NtvApiSecret2014*
