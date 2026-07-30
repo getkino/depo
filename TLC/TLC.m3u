@@ -5677,8 +5677,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4712
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447127&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/586020e4-87cc-4678-a670-754ae7ec0ea1.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - MÜSLÜMAN OLUYOR | 10. Sezon 16. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447126&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/586020e4-87cc-4678-a670-754ae7ec0ea1.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - BEKARLIĞA VEDA PARTİSİ | 10. Sezon 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447125&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/586020e4-87cc-4678-a670-754ae7ec0ea1.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - DÜĞÜN OLACAK MI? | 10. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447124&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/586020e4-87cc-4678-a670-754ae7ec0ea1.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - MÜSLÜMAN OLACAK MI? | 10. Sezon 13. Bölüm
@@ -6011,6 +6009,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3360
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336029&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/2e64ad4a-fc28-47df-9e93-a1a3bdd0ec55.jpg" group-title="Evliliğe 90 Gün: Bekar Hayatı",Evliliğe 90 Gün: Bekar Hayatı - SIFIRDAN BAŞLIYORUZ | 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_36028&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 4. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_545917&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 4. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_545916&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/7362293b-d0f2-4884-a486-1f279378e5bf.jpg" group-title="Evliliğe 90 Gün: İngiltere",Evliliğe 90 Gün: İngiltere - 4. Sezon 2. Bölüm
@@ -9901,6 +9901,16 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2281
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228162&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228161&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228160&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228159&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228158&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228157&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228156&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_228155&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 12. Sezon 2. Bölüm
@@ -9917,6 +9927,16 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2202
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220290&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220289&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220288&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220287&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220286&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220284&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220283&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_220282&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/0ec7974e-2ad7-4cf8-b7cd-b07782a60407.jpg" group-title="Kumsalda Kelepir Avı",Kumsalda Kelepir Avı - 11. Sezon 1. Bölüm
@@ -10141,8 +10161,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2516
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251637&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 7. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251636&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251635&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251634&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 4. Bölüm
@@ -10151,8 +10169,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2516
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251632&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251631&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 8. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_251630&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 7. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_248915&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 7. Sezon 13. Bölüm
@@ -10297,6 +10313,16 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2221
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222150&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222149&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222148&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222147&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222146&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222145&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222144&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_222143&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/3acabf8b-6270-49a6-9f2c-a7ec0048ca40.jpg" group-title="Küçük Ev Büyük Aile",Küçük Ev Büyük Aile - 1. Sezon 3. Bölüm
@@ -12155,8 +12181,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2144
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_214453&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 7. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_214445&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 7. Sezon 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_214440&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 7. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_214432&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/af7d0385-45ba-49df-8311-d77192741e2b.jpg" group-title="Rüya Gibi Evler",Rüya Gibi Evler - 7. Sezon 9. Bölüm
@@ -13345,8 +13369,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2677
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618680&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618679&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618678&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618677&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 3. Bölüm
