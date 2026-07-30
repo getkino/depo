@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198482&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198475&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 8. Bölüm
@@ -7,6 +9,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_1984
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198474&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198472&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198479&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 4. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_198471&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/4d02ca65-b447-4029-a51a-dda34cc8659a.jpg" group-title="SON ALASKALILAR",SON ALASKALILAR - 4. Sezon 3. Bölüm
