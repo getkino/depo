@@ -1,0 +1,7 @@
+Running atp/atp.py at 20260801T012245Z (UTC)
+🚀 TÜM DİZİLERİN M3U8'LERİ TOPLANIYOR
+⚡ FULL MODE: Tüm diziler işlenecek!
+⏰ Bu işlem uzun sürebilir...
+🌟 PROCESS ALL: https://diziyiizle.com/?post_type=series
+❌ Dizi listesi çıkarım hatası: HTTPSConnectionPool(host='diziyiizle.com', port=443): Max retries exceeded with url: /?post_type=series (Caused by ConnectTimeoutError(<HTTPSConnection(host='diziyiizle.com', port=443) at 0x7f5cfdbac5d0>, 'Connection to diziyiizle.com timed out. (connect timeout=None)'))
+❌ Hiç dizi bulunamadı.
