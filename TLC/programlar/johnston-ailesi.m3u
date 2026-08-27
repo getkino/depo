@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b31e4634-2111-4a01-8b45-6c68a349aaf5.jpg" group-title="Johnston Ailesi",Johnston Ailesi - 4. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_207426&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b31e4634-2111-4a01-8b45-6c68a349aaf5.jpg" group-title="Johnston Ailesi",Johnston Ailesi - 4. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_207433&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b31e4634-2111-4a01-8b45-6c68a349aaf5.jpg" group-title="Johnston Ailesi",Johnston Ailesi - 4. Sezon 1. Bölüm
