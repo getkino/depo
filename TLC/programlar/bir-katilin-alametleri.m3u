@@ -39,3 +39,5 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_3181
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_318100&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/99234183-0980-4725-aec7-a41fccab9432.jpg" group-title="Bir Katilin Alametleri",Bir Katilin Alametleri - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_318099&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/99234183-0980-4725-aec7-a41fccab9432.jpg" group-title="Bir Katilin Alametleri",Bir Katilin Alametleri - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_318098&SecretKey=NtvApiSecret2014*
