@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618683&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_618682&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/96228638-671c-4932-b84c-235fe2f31dd1.jpg" group-title="Tiklerimden Fazlasıyım",Tiklerimden Fazlasıyım - 2. Sezon 8. Bölüm

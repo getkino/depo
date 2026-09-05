@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340409&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340408&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 18. Sezon 12. Bölüm
@@ -341,16 +339,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2353
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_235376&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 2. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_235375&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215160&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215181&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215159&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215180&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215192&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_215202&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/f97cd75d-4bcb-47f5-8bf4-987205284be3.jpg" group-title="Ada Hayatı",Ada Hayatı - 1. Sezon 8. Bölüm
