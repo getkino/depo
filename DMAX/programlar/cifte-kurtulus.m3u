@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 2. Sezon 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_903013&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 2. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_903011&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 1. Sezon 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_894438&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 1. Sezon 9. Bölüm
@@ -21,3 +17,5 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_8944
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_894431&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_894430&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_894429&SecretKey=NtvApiSecret2014*
