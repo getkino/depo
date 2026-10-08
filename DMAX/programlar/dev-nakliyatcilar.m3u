@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/45ffcb50-5719-4330-b09e-bb5b6cb7fde7.jpg" group-title="DEV NAKLİYATÇILAR",DEV NAKLİYATÇILAR - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_143734&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/45ffcb50-5719-4330-b09e-bb5b6cb7fde7.jpg" group-title="DEV NAKLİYATÇILAR",DEV NAKLİYATÇILAR - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_143733&SecretKey=NtvApiSecret2014*
