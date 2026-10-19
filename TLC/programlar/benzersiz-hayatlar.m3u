@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/497c9fea-3c0b-4fe3-9085-18ab69381eb9.jpg" group-title="Benzersiz Hayatlar",Benzersiz Hayatlar - 1. Sezon 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_640841&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/497c9fea-3c0b-4fe3-9085-18ab69381eb9.jpg" group-title="Benzersiz Hayatlar",Benzersiz Hayatlar - RÜMEYSA GELGİ'NİN HİKAYESİ | 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_640840&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/497c9fea-3c0b-4fe3-9085-18ab69381eb9.jpg" group-title="Benzersiz Hayatlar",Benzersiz Hayatlar - 1. Sezon 1. Bölüm
