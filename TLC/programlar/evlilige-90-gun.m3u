@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 12. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_622441&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - DÜĞÜN GÜNÜ | 10. Sezon 18. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_47128&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - ARTIK BIKTIM | 10. Sezon 17. Bölüm
@@ -21,6 +23,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4471
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447119&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - KAHVE KAVGASI | 10. Sezon 8. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447118&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 'SENİ ALDATMADIM' | 10. Sezon 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447117&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 'BU RUJ KİMİN?' | 10. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447116&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - ANNESİ DOLAPTA YAŞIYOR | 10. Sezon 5. Bölüm
