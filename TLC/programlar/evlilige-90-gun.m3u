@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 12. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_622442&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - 12. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_622441&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - DÜĞÜN GÜNÜ | 10. Sezon 18. Bölüm
@@ -33,8 +35,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4471
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447114&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - POPO İMPLANTI İTİRAFI | 10. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447113&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - CEHENNEM | 10. Sezon 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447112&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - GELİNLİK PARASI NE OLDU? | 10. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_447111&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6fba54ee-2923-4bbc-a724-b17b263f4c9d.jpg" group-title="Evliliğe 90 Gün",Evliliğe 90 Gün - YÜZLEŞME | 9. Sezon 19. Bölüm
