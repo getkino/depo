@@ -19,3 +19,7 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_4458
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_445814&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/e404cbca-c4de-43ca-8b90-52b7984bf723.jpg" group-title="TUTUKLAMA EMRİ",TUTUKLAMA EMRİ - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_445813&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/e404cbca-c4de-43ca-8b90-52b7984bf723.jpg" group-title="TUTUKLAMA EMRİ",TUTUKLAMA EMRİ - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_445812&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/e404cbca-c4de-43ca-8b90-52b7984bf723.jpg" group-title="TUTUKLAMA EMRİ",TUTUKLAMA EMRİ - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_45811&SecretKey=NtvApiSecret2014*
