@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/66adedf4-5b5a-4792-a635-307b935cd62d.jpg" group-title="CEVHER AVI",CEVHER AVI - 1. Sezon 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_243678&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/66adedf4-5b5a-4792-a635-307b935cd62d.jpg" group-title="CEVHER AVI",CEVHER AVI - 1. Sezon 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_243677&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/66adedf4-5b5a-4792-a635-307b935cd62d.jpg" group-title="CEVHER AVI",CEVHER AVI - 1. Sezon 12. Bölüm
