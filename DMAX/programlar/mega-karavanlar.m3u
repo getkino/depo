@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c7c895be-8a50-49da-adce-e6bbe901f60f.jpg" group-title="MEGA KARAVANLAR",MEGA KARAVANLAR - 1. Sezon 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_314532&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c7c895be-8a50-49da-adce-e6bbe901f60f.jpg" group-title="MEGA KARAVANLAR",MEGA KARAVANLAR - 1. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_314531&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c7c895be-8a50-49da-adce-e6bbe901f60f.jpg" group-title="MEGA KARAVANLAR",MEGA KARAVANLAR - 1. Sezon 4. Bölüm
@@ -7,3 +9,5 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3145
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_314529&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c7c895be-8a50-49da-adce-e6bbe901f60f.jpg" group-title="MEGA KARAVANLAR",MEGA KARAVANLAR - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_314528&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c7c895be-8a50-49da-adce-e6bbe901f60f.jpg" group-title="MEGA KARAVANLAR",MEGA KARAVANLAR - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_314527&SecretKey=NtvApiSecret2014*
